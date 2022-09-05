@@ -4,8 +4,8 @@
 
 <div style="display: inline_block">
   <h4>:unlock: UI Designer e Dev. Front-end Freelancer
-  <h4>:mortar_board: Análise e Desenvolvimento de Sistemas - 3° Semestre 
-  <h4> :woman:	 21 anos </h4>
+  <h4>:mortar_board: Sistemas de Informação - 2° Semestre 
+  <h4> :woman:	 22 anos </h4>
 </div>
 
 
