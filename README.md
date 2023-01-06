@@ -3,7 +3,7 @@
 ### Sobre Mim
 
 <div style="display: inline_block">
-  <h4>:unlock: UI Designer e Dev. Front-end Freelancer
+  <h4>:unlock: UI/UX Designer e Dev. Front-end
   <h4>:mortar_board: Sistemas de Informação - 2° Semestre 
   <h4> :woman:	 22 anos </h4>
 </div>
